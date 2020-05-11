@@ -1,0 +1,1 @@
+entrada.desde.teclado.calculadora
